@@ -23,3 +23,4 @@ O objetivo é oferecer uma experiência de conversa simples e educativa sobre di
 - `requirements.txt`: dependências do projeto.
 
 
+Projeto desenvolvido como parte do Desafio de Projeto Final – Construa seu Assistente Virtual com IA Generativa do bootcamp Bradesco GenAI & Dados (DIO), consolidando conceitos de IA generativa, Python, dados e UX aplicados ao contexto financeiro.
