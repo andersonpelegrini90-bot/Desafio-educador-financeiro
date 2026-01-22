@@ -22,10 +22,4 @@ O objetivo é oferecer uma experiência de conversa simples e educativa sobre di
 - `app.py`: aplicação web em Streamlit para interação com o assistente.
 - `requirements.txt`: dependências do projeto.
 
-## Como executar localmente
 
-1. **Clonar o repositório**
-
-   ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-   cd SEU-REPOSITORIO
